@@ -1,0 +1,24 @@
+.vsconfig
+Assets/RTS Engine/
+Library/
+ProjectSettings/
+Logs/
+Assets/Resources/
+Assets/Scenes/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+.vs/RTS/v16/.suo
+Assets/Audio.meta
+Assets/Resources.meta
+Assets/RTS Engine.meta
+Assets/Scenes.meta
+Assets/Scripts.meta
+Assets/Audio/GameAudioMixer.mixer
+Assets/Audio/GameAudioMixer.mixer.meta
+Assets/Scripts/*.meta*
+Assets/Scripts/**/*.meta*
+obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Packages/manifest.json
+UserSettings/EditorUserSettings.asset
